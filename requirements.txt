@@ -1,0 +1,8 @@
+pynecone
+cmake
+fastapi
+opencv-python
+dlib
+imutils
+numpy
+python-dotenv
